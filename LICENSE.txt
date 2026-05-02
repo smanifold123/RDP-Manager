@@ -1,0 +1,56 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. This License applies to any program or other work which contains a notice
+placed by the copyright holder saying it may be distributed under the terms of
+this General Public License. The "Program" refers to any such program or work.
+
+1. You may copy and distribute verbatim copies of the Program's source code as
+you receive it, provided that you conspicuously publish an appropriate copyright
+notice and disclaimer of warranty on each copy, keep intact all notices that
+refer to this License, and give recipients a copy of this License.
+
+2. You may modify your copy or copies of the Program or any portion of it, and
+copy and distribute such modifications under the terms of Section 1 above,
+provided that: (a) modified files carry prominent notices stating you changed
+them; (b) any work you distribute that contains the Program is licensed as a
+whole at no charge under this License; (c) if the modified program reads
+commands interactively, it prints a copyright notice and warranty disclaimer.
+
+3. You may copy and distribute the Program (or a work based on it) in object
+code or executable form under the terms of Sections 1 and 2 above provided that
+you accompany it with the complete corresponding machine-readable source code.
+
+4. You may not copy, modify, sublicense, or distribute the Program except as
+expressly provided under this License.
+
+5. You are not required to accept this License, since you have not signed it.
+However, nothing else grants you permission to modify or distribute the Program.
+
+6. Each time you redistribute the Program, the recipient automatically receives
+a license from the original licensor to copy, distribute or modify the Program.
+
+7. If the distribution and/or use of the Program is restricted in certain
+countries, the original copyright holder may add an explicit geographical
+distribution limitation.
+
+NO WARRANTY
+
+11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
+THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS
+AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL
+ANY COPYRIGHT HOLDER BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE PROGRAM.
+
+Full license text: https://www.gnu.org/licenses/gpl-2.0.txt
