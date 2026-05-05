@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: RDP‑Manager
+description: A lightweight, modern Remote Desktop session manager for Windows.
+show_downloads: false
+
+include:
+  - css/custom.css
