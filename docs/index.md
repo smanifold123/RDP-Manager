@@ -3,10 +3,12 @@ A lightweight, fast, and modern **Remote Desktop session manager** for Windows.
 Organize, launch, and manage RDP connections with ease.
 
 <div style="margin-top:20px;">
-  <a href="../releases/latest" style="padding:12px 20px;background:#28a745;color:white;border-radius:6px;text-decoration:none;font-size:16px;">
+  <a href="https://github.com/smanifold123/RDP-Manager/releases/latest"
+     style="padding:12px 20px;background:#28a745;color:white;border-radius:6px;text-decoration:none;font-size:16px;">
     ⬇️ Download Latest Release
   </a>
 </div>
+
 
 ---
 
